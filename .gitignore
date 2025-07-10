@@ -1,0 +1,13 @@
+llama/node_modules
+landing-page/node_modules
+server/node_modules
+
+landing-page/.env
+llama/.env
+llama/wtfai-456904-55296f8cb865.json
+llama/wtfai-456904-55296f8cb865.json
+server/.env
+llama/wtfai-456904-55296f8cb865.json
+llama/wtfai-456904-55296f8cb865.json
+
+server-flask/.env
